@@ -5,7 +5,7 @@ export const fibosMainnet = new Chain({
   netType: "Mainnet",
   logo: "/logos/fibos.png",
   symbol: "FO",
-  endpoints: ["https://rpc-mainnet.fibos123.com"],
+  endpoints: ["https://to-rpc.fibos.io"],
   slug: "fo",
   bindPath: ["fo"],
 })
